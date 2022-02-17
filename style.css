@@ -7,6 +7,7 @@ body {
 	background:url("pixelLab/bg2.jpg");
 	background-size:cover;
 	box-sizing:border-box;
+        font-family:'san-serif';
 }
 		
 .header-section, .header-section2 {
