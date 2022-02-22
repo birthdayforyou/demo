@@ -240,6 +240,9 @@ a {
 	align-items:center;
 	position:fixed;
 	top:0;
+        user-select:none;
+        -webkit-user-select: none;
+        -o-webkit-user-select:none;
 	z-index:1;
 }
 
