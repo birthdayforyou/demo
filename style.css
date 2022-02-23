@@ -138,10 +138,10 @@ audio {
 	height:200px;
 	margin:auto;
 	margin-bottom:;
-	border:1px solid black;
+	border:2px solid black;
+        box-shadow:0 0 10px black;
 	background:url("avatar.png");
-	background-size:cover;
-	background-position:right;
+	background-size: cover;
 	border-radius:50%;
 }
 
